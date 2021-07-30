@@ -22,7 +22,7 @@ From the Citi Bike Data we were able to glean insight into the Citi Bikes busine
 - the most popular rental times on the weekends are during the day
 - the best time to do maintenance or transport bicycles would be at night
 
-[Link to Dashboard Presentation](https://public.tableau.com/shared/2BPTN5GWY?:display_count=n&:origin=viz_share_link)
+## **[Link to Dashboard Presentation](https://public.tableau.com/shared/2BPTN5GWY?:display_count=n&:origin=viz_share_link)**
 
 ![image of Dashboard](https://github.com/murphyk2021/bikesharing/blob/c2a69db0f2a605b7e75c424aec88c15d217901de/Images/Story%201%20(4).png)
 
