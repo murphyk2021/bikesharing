@@ -24,4 +24,6 @@ From the Citi Bike Data we were able to glean insight into the Citi Bikes busine
 
 [Link to Dashboard Presentation](https://public.tableau.com/shared/NRYK3N3HW?:display_count=n&:origin=viz_share_links)
 
+![image of Dashboard](https://github.com/murphyk2021/bikesharing/blob/c2a69db0f2a605b7e75c424aec88c15d217901de/Images/Story%201%20(4).png)
+
 Although this data is useful in setting up operational guidelines, our angel investor is going to need some financial information!  Other visualizations which might be useful would be related to profit margins and bicycle maintenance.  Our investor may have questions about the costs of properly maintaining the bikes.  How many bikes are stolen/lost per year?  What is the projected return on these investments in Des Moines, IA?  Finally, what is the competition in the area--i.e. rental scooters, uber, lyft, public transport, etc.?  
